@@ -3,11 +3,6 @@
 <p><em>Software Enginner at <a href="http://www.symbiance.com">Symbiance </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
-[![Twitter: ArunPrabhakar](https://img.shields.io/twitter/follow/arunprabhakart?style=social)](https://twitter.com/arunprabhakart)
-[![Linkedin: ArunPrabhakar](https://img.shields.io/badge/-arunprabhakarinfo?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunprabhakarinfo/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub ArunPrabhakar](https://img.shields.io/github/followers/arun-prabhakar?label=follow&style=social)](https://github.com/arun-prabhakar)
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
