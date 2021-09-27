@@ -1,6 +1,6 @@
 <h2> Hi, I'm Arun Prabhakar! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.symbiance.com">Symbiance </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+<p><em>Senior Software Enginner at <a href="http://www.symbiance.com">Symbiance </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
